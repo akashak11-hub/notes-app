@@ -1,9 +1,9 @@
 # Notes App — MERN CRUD Lab
 
 ## Candidate Details
-- Name: Akash
+- Name: Akash Kumar
 - Roll Number: 2026201050
-- GitHub Repo: <add your repo link here>
+- GitHub Repo: https://github.com/akashak11-hub/notes-app
 
 ## Tech Stack
 - **Backend:** Node.js, Express, Mongoose, MongoDB
@@ -28,7 +28,7 @@ cd server
 npm install
 npm start
 ```
-Server runs on `http://localhost:5000`.
+Server runs on `http://localhost:8000`.
 
 ### 2. Frontend
 Open a new terminal:
